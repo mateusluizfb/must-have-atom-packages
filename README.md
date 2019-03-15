@@ -6,3 +6,4 @@ Before anything, this is the "must have atom packages" in my opinion! It's more 
 - ruby-test;
 - language-elixir;
 - bracket-colorizer;
+- multi-cursor;
