@@ -7,3 +7,4 @@ Before anything, this is the "must have atom packages" in my opinion! It's more 
 - language-elixir;
 - bracket-colorizer;
 - multi-cursor;
+- tester-jest;
